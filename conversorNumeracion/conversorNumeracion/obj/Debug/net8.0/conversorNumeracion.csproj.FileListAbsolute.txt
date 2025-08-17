@@ -1,0 +1,14 @@
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\bin\Debug\net8.0\conversorNumeracion.exe
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\bin\Debug\net8.0\conversorNumeracion.deps.json
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\bin\Debug\net8.0\conversorNumeracion.runtimeconfig.json
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\bin\Debug\net8.0\conversorNumeracion.dll
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\bin\Debug\net8.0\conversorNumeracion.pdb
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\conversorNumeracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\conversorNumeracion.AssemblyInfoInputs.cache
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\conversorNumeracion.AssemblyInfo.cs
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\conversorNumeracion.csproj.CoreCompileInputs.cache
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\conversorNumeracion.dll
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\refint\conversorNumeracion.dll
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\conversorNumeracion.pdb
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\conversorNumeracion.genruntimeconfig.cache
+C:\Users\matyi\source\repos\conversorNumeracion\conversorNumeracion\obj\Debug\net8.0\ref\conversorNumeracion.dll
